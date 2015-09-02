@@ -1,0 +1,9 @@
+#map {
+	position: relative;
+}
+.field {
+	background-color: #BFBFBF;
+	position: absolute;
+	text-align: center;
+	border: 1px black solid;
+}
